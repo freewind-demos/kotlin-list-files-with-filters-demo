@@ -1,4 +1,11 @@
-Kotlin Hello World Demo
-=======================
+Kotlin List Files with Filters Demo
+===================================
 
-Hello world from kotlin. Open it in IDE and run `Hello.kt`
+List the files of a directory, and filter them by some predication.
+
+Run `Hello.kt` in your IDE.
+
+Notice
+------
+
+The code is a little complex, looking for a better solution.
